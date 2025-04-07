@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"/>
 <!--
 **gurami152/gurami152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
